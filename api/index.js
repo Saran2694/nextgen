@@ -1,7 +1,2 @@
-let app;
-try {
-  app = require('../server');
-} catch (e) {
-  app = require('../nextgen-dma-ventures-v4/nextgen-dma-ventures/server');
-}
+const app = require('../server');
 module.exports = app;

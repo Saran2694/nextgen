@@ -12,7 +12,7 @@ Production-ready course registration, payment management, automated email receip
 - npm or pnpm
 
 ### Installation
-In the project directory (`nextgen-dma-ventures-v4/nextgen-dma-ventures`):
+In the project directory in the repository root:
 ```bash
 npm install
 ```
